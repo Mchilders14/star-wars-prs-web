@@ -3,6 +3,7 @@ package com.prs.business;
 import javax.persistence.*;
 
 @Entity
+@Table(name = "`User`")
 public class User {
 	
 	@Id
