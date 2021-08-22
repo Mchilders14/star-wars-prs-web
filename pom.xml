@@ -73,7 +73,7 @@
           <schemaVersion>v2</schemaVersion>
           <subscriptionId>0a85e658-68ea-47d9-b241-2d81066aa795</subscriptionId>
           <resourceGroup>Main</resourceGroup>
-          <appName>purchaserequestsystems</appName>
+          <appName>starwarsprsback</appName>
           <pricingTier>B1</pricingTier>
           <region>eastus2</region>
           <appServicePlanName>ASP-Main-af05</appServicePlanName>
